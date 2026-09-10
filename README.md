@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ayan Majumdar
+
+Computer Science student interested in software, AI/ML, and emerging technologies.
+Working with **C, C++,Java, Verilog HDL**, and currently exploring **JavaScript and Web Development**.
+Practicing **Data Structures & Algorithms** to improve problem-solving and coding skills.
+Curious about **Machine Learning, Artificial Intelligence, and intelligent systems**.
+Exploring **Digital Logic, Computer Architecture, and hardware design** through projects.
+I enjoy building projects, experimenting with new technologies, and understanding how things work.
+Currently learning, building, debugging, and expanding my skills across different areas of tech.
+Open to collaboration, interesting projects, and opportunities to learn and grow.
+
 
 <!--
 **ayanmajumdar-111/ayanmajumdar-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
