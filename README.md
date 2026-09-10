@@ -1,7 +1,7 @@
 # Hi, I'm Ayan Majumdar
 
 Computer Science student interested in software, AI/ML, and emerging technologies.
-Working with **C, C++,Java, Verilog HDL**, and currently exploring **JavaScript and Web Development**.
+Working with **C, C++,Java**, and currently exploring **JavaScript and Web Development**.
 Practicing **Data Structures & Algorithms** to improve problem-solving and coding skills.
 Curious about **Machine Learning, Artificial Intelligence, and intelligent systems**.
 Exploring **Digital Logic, Computer Architecture, and hardware design** through projects.
